@@ -180,7 +180,7 @@ we have numerical column where we can apply min-max Normalization.<br>
 List of the model that we can use for our problem<br>
 a. LinearRegression model<br>
 b. KNN Model<br>
-c. Decesion Tree<br>
+c. Decision Tree<br>
 d. Random Forest
 
 
